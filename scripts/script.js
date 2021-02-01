@@ -51,7 +51,3 @@ document.getElementById("r2c1").onclick = function () {
 document.getElementById("r2c2").onclick = function () {
    alert(w13);
 };
-
-document.getElementById("r2c3").onclick = function () {
-   alert(w14);
-};
